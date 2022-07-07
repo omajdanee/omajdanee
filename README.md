@@ -6,7 +6,7 @@ Cross Platform Developer
 
 * 🌍  I'm based in Khouribga , Morocco
 * ✉️  You can contact me at [omajdanee@gmail.com](mailto:omajdanee@gmail.com)
-* 🧠  I'm learning Xamarin
+* 🧠  I'm learning Flutter
 
 <a href="https://www.twitter.com/3iiitmaaan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/3iiitmaaan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
